@@ -1,0 +1,12 @@
+E:\Workspace04\Learn-Csharp-01\Demo_01\bin\Debug\Learn_Csharp_01.exe
+E:\Workspace04\Learn-Csharp-01\Demo_01\bin\Debug\Learn_Csharp_01.pdb
+E:\Workspace04\Learn-Csharp-01\Demo_01\obj\Debug\Demo_01.csprojAssemblyReference.cache
+E:\Workspace04\Learn-Csharp-01\Demo_01\obj\Debug\Demo_01.csproj.CoreCompileInputs.cache
+E:\Workspace04\Learn-Csharp-01\Demo_01\obj\Debug\Learn_Csharp_01.exe
+E:\Workspace04\Learn-Csharp-01\Demo_01\obj\Debug\Learn_Csharp_01.pdb
+D:\Workspace01\Learn-Csharp-01\Demo_01\obj\Debug\Learn_Csharp_01.exe
+D:\Workspace01\Learn-Csharp-01\Demo_01\obj\Debug\Learn_Csharp_01.pdb
+D:\Workspace01\Learn-Csharp-01\Demo_01\bin\Debug\Learn_Csharp_01.exe
+D:\Workspace01\Learn-Csharp-01\Demo_01\bin\Debug\Learn_Csharp_01.pdb
+D:\Workspace01\Learn-Csharp-01\Demo_01\obj\Debug\Demo_01.csprojAssemblyReference.cache
+D:\Workspace01\Learn-Csharp-01\Demo_01\obj\Debug\Demo_01.csproj.CoreCompileInputs.cache

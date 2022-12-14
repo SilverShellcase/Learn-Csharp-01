@@ -1,0 +1,6 @@
+D:\Workspace01\Learn-Csharp-01\FileTool\bin\Debug\FileTool.exe
+D:\Workspace01\Learn-Csharp-01\FileTool\bin\Debug\FileTool.pdb
+D:\Workspace01\Learn-Csharp-01\FileTool\obj\Debug\FileTool.csprojAssemblyReference.cache
+D:\Workspace01\Learn-Csharp-01\FileTool\obj\Debug\FileTool.csproj.CoreCompileInputs.cache
+D:\Workspace01\Learn-Csharp-01\FileTool\obj\Debug\FileTool.exe
+D:\Workspace01\Learn-Csharp-01\FileTool\obj\Debug\FileTool.pdb
